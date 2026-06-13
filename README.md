@@ -34,4 +34,5 @@
 ### Project Contents
 
 **Page 1:** Interactive Customer Churn & Retention Dashboard.
+
 **Page 2:** Business Insights and Recommendations.
